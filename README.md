@@ -4,7 +4,7 @@
 
 # Tema da Aula
 
-Turma Online X | Semana X | 202X | Professora X
+Turma Online 35 | Python | Semana 15 | 2024 | Professora Deborah Foroni
 
 ### Instruções
 Antes de começar, vamos organizar nosso setup.
@@ -15,64 +15,44 @@ Antes de começar, vamos organizar nosso setup.
 
 ### Resumo
 O que veremos na aula de hoje?
-* [Tema1](#tema1)
-* [Tema2](#tema2)
-* [Tema3](#tema3)
+
+<a name="ancora"></a>
+
+* [Introdução ao Tableau Public ](#Tema1)
+* [Dashboards: outra abordagem de visualização de dados](#Tema2)
+* [Conhecendo o Tableau Public com os dados da Olist](#Tema3)
 
 ## Conteúdo
-### Tema1 
-1. [Tópico 1](#topico1)
-2. [Tópico 2](#topico2)
-### Tema2 
-1. [Tópico 3](#topico3)
-   * [Subtópico 1](#subtopico1)
-   * [Subtópico 2](#subtopico2)
-   
-### Tema3
-1. [Tópico 4](#topico4)
+### <a id="Tema1"></a>
+### Visualização de Dados
 
-### Tema1 
+1. Introdução ao Tableau Public 
+    
+    Nessa aula, vamos aprender a usar uma nova ferramenta para visualização de dados chamada Tableau, nela usamos menos códigos e mais a imaginação para elaborar gráficos mais elegantes em uma única visualização.
+  
+### <a id="Tema2"></a>
+### Dashboards: outra abordagem de visualização de dados 
+    
+* Princípios básicos da visualização de dados;
+* Etapas da criação de uma visualização de dados;    
 
-#### Topico1
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Mauris pharetra dui quis turpis rutrum blandit. Nunc tempor libero tortor, ac commodo erat porttitor ut. Donec vitae orci arcu. Nunc felis mi, maximus a turpis a, mollis pulvinar enim. Vivamus aliquam ante dui, a blandit massa rutrum et. Etiam hendrerit gravida ultrices. Nunc ante massa, dictum eget justo eget, feugiat tincidunt metus.
 
- #### Topico2
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  - Donec erat mauris, laoreet in tortor vel
-  - Nunc ante massa, dictum eget justo eget, feugiat tincidunt.
+### <a id="Tema3"></a>   
+### Conhecendo o Tableau Public com os dados da Olist
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Mauris pharetra dui quis turpis rutrum blandit.
+* Construíndo visualizações no Tableau Public, a partir dos dados da Olist que da semana 14;
 
-### Tema2
-#### Topico3
-* [Subtópico 1](#subtopico1)
-* [Subtópico 2](#Subtopico2)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel.
-
-##### Subtopico1
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel.
-
-##### Subtopico2
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel.
-
-### Tema3
-#### Topico4
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Mauris pharetra dui quis turpis rutrum blandit. Nunc tempor libero tortor, ac commodo erat porttitor ut. Donec vitae orci arcu. Nunc felis mi, maximus a turpis a, mollis pulvinar enim. Vivamus aliquam ante dui, a blandit massa rutrum et. Etiam hendrerit gravida ultrices.
 
 ***
 ### Exercícios 
-* [Exercicio para sala](https://github.com/mflilian/repo-example/tree/main/exercicios/para-sala)
-* [Exercicio para casa](https://github.com/mflilian/repo-example/tree/main/exercicios/para-casa)
+* [Exercicio para sala](https://github.com/reprograma/on26-python-s15-visualizacao-de-dados/tree/main/exercicios/para-sala)
+* [Exercicio para casa](https://github.com/reprograma/on26-python-s15-visualizacao-de-dados/tree/main/exercicios/para-casa)
 
-### Material da aula 
+### Links
 
-### Links Úteis
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-
+* [Tipos de Gráficos Básicos](https://www.youtube.com/watch?v=xnr0iLB157E)
+* [Analisando dados da Netflix](https://www.youtube.com/watch?v=SlVqnZhWVvA)
 
 <p align="center">
 Desenvolvido com :purple_heart:  
