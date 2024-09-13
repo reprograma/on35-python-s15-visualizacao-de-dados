@@ -1,10 +1,21 @@
 # Exercício de Casa 🏠 
 
-## Nome do Exercicio
+## Desafio da semana 15
 
-- Explicação do exercício: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci.
-Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. 
+Objetivo: Sedimentar os conhecimentos de Visualização de Dados que aprendemos nessa aula. 
+
+Desafio: Criar um dashboard com os dados da Olist a partir da sua base final criada na Semana 14.
+
+Requisitos: 
+- Formular o mínimo de 6 visualizações diferentes;
+- Utilizar a sua base final criada com os dados da Olist (caso você deseje enriquecer sua base conforme você for criando as visualizações, fique à vontade!);  
+- Publicar seu dashboard final no repositório do Tableau. 
+
+
+Submeta uma pasta que contenha: 
+- o link de acesso ao seu dashboard no site do Tableau Web;
+- print das telas finais;
+- arquivo .ipynb da base final utilizada para alimentar o dashboar (apenas se realizarem alguma modificação na base de dados).
 ---
 
 Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo certinho, combinado?!
